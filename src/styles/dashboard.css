@@ -1,0 +1,25 @@
+* {
+    margin: 0; /* Espaçamentos externos */
+    padding: 0; /* Espaçamentos internos */
+    box-sizing: border-box; /* Tamanho da caixa */
+}
+
+.header {
+    padding: 20px;
+    background-color: rgb(8, 97, 133);
+    color: #fff;
+    text-align: center;
+}
+
+
+.card {
+    background-color: rgb(122, 204, 122);
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 8px;
+}
+
+.card-header{
+    display: flex;
+}
